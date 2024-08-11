@@ -65,5 +65,5 @@ You should get following output :
 
 ## License
 
-This project is provided under the [BSD-3](https://opensource.org/license/bsd-3-clause) License - see the [LICENSE.md](LICENSE.md) file for details
+This project is provided under the [BSD-3](https://opensource.org/license/bsd-3-clause) License - see the [LICENCE.md](LICENCE.md) file for details
 
